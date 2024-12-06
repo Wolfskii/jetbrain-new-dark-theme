@@ -3,13 +3,16 @@
   "displayName": "Wolfskii's Dark Jetbrains Theme",
   "description": "A theme extension for Visual Studio Code based on Intellij IDE from Jetbrains.",
   "version": "1.0.0",
-  "publisher": "Dawid Kaleta",
+  "publisher": "Wolfskii",
   "repository": {
     "type": "git",
     "url": "https://github.com/Wolfskii/jetbrain-new-dark-theme"
   },
   "engines": {
     "vscode": "^1.95.3"
+  },
+  "scripts": {
+    "publish": "vsce package && vsce publish"
   },
   "keywords": [
     "theme",

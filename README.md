@@ -2,14 +2,18 @@
 
 A theme extension for Visual Studio Code based on Intellij IDE from Jetbrains.
 
+## Marketplace link
+
+<https://marketplace.visualstudio.com/items?itemName=Wolfskii.wolfskiis-dark-jetbrains-theme>
+
 **Optional:** For the best experience, use **Jetbrains Mono** font.
 
-https://www.jetbrains.com/lp/mono/
+<https://www.jetbrains.com/lp/mono/>
 
-## Preview:
+## Preview
 
-**Java**
-![java-theme](#)
+### Java
+<!-- ![java-theme](#) -->
 
 ## Syntax Support
 
