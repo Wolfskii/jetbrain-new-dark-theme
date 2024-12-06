@@ -1,0 +1,37 @@
+{
+  "name": "wolfskiis-dark-jetbrains-theme",
+  "displayName": "Wolfskii's Dark Jetbrains Theme",
+  "description": "A theme extension for Visual Studio Code based on Intellij IDE from Jetbrains.",
+  "version": "1.0.0",
+  "publisher": "Dawid Kaleta",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Wolfskii/jetbrain-new-dark-theme"
+  },
+  "engines": {
+    "vscode": "^1.95.3"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "jetbrains",
+    "webstorm",
+    "intellij",
+    "Darcula",
+    "intellij dark theme",
+    "Jetbrains Darcula"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Wolfskii's Dark Jetbrains Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wolfskii's Dark Jetbrains Theme.json"
+      }
+    ]
+  },
+  "icon": "icon.png"
+}
